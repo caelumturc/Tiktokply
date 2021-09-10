@@ -5,6 +5,13 @@ Tiktok video player clone
 
 
 
+
+
+
+
+
+
+
 ![Ekran Ahtjthhrtrtrtrlıntısı](https://user-images.githubusercontent.com/87136151/132891370-44e357cc-856f-4d47-9586-1729329c69cb.PNG)
 
 
